@@ -1,5 +1,7 @@
 # CompTIANetwork+_prep
 
+<img src="https://github.com/rpointjour/compTIA_network-_prep/assets/54840122/7bca55b5-4f65-4c2f-828a-869674bdb35a" alt="Network" style="width:50%;height:50%;" />
+
 #
 # Topics
 
