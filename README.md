@@ -1,70 +1,222 @@
-# Getting Started with Create React App
+# CompTIANetwork+_prep
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#
+# Topics
 
-## Available Scripts
+- Intro to Network Devices (part 1)  
 
-In the project directory, you can run:
+- Intro to Network Devices (part 2)
 
-### `npm start`
+- Networking Services and Applications (part 1)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Networking Services and Applications (part 2)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- DHCP in the Network
 
-### `npm test`
+- Introduction to the DNS Service
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Introducing Network Address Translation
 
-### `npm run build`
+- WAN Technologies (part 1)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- WAN Technologies (part 2)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- WAN Technologies (part 3)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- WAN Technologies (part 4)
 
-### `npm run eject`
+- Network Cabling (part 1)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Network Cabling (part 2)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Network Cabling (part 3)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Network Topologies
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Network Infrastructure Implementations
 
-## Learn More
+- Introduction to IPv4 (part 1)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Introduction to IPv4 (part 2)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Introduction to IPv6
 
-### Code Splitting
+- Special IP Networking Concepts
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Introduction to Routing Concepts (part 1)
 
-### Analyzing the Bundle Size
+- Introduction to Routing Concepts (part 2)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Introduction to Routing Protocols
 
-### Making a Progressive Web App
+- Basic Elements of Unified Communications
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- Virtualization Technologies
 
-### Advanced Configuration
+- Storage Area Networks
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- Basic Cloud Concepts
 
-### Deployment
+- Implementing a Basic Network
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- Analyzing Monitoring Reports
 
-### `npm run build` fails to minify
+- Network Monitoring (part 1)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Network Monitoring (part 2)
+
+- Supporting Configuration Management (part 1)
+
+- Supporting Configuration Management (part 2)
+
+- The Importance of Network Segmentation
+
+- Applying Patches and Updates
+
+- Configuring Switches (part 1)
+
+- Configuring Switches (part 2)
+
+- Wireless LAN Infrastructure (part 1)
+
+- Wireless LAN Infrastructure (part 2)
+
+- Risk and Security Related Concepts
+
+- Common Network Vulnerabilities
+
+- Common Network Threats (part 1)
+
+- Common Network Threats (part 2)
+
+- Network Hardening Techniques (part 1)
+
+- Network Hardening Techniques (part 2)
+
+- Network Hardening Techniques (part 3)
+
+- Physical Network Security Control
+
+- Firewall Basics
+
+- Network Access Control
+
+- Basic Forensic Concepts
+
+- Network Troubleshooting Methodology
+
+- Troubleshooting Connectivity with Utilities
+
+- Troubleshooting Connectivity with Hardware
+
+- Troubleshooting Wireless Networks (part 1)
+
+- Troubleshooting Wireless Networks (part 2)
+
+- Troubleshooting Copper Wire Networks (part 1)
+
+- Troubleshooting Copper Wire Networks (part 2)
+
+- Troubleshooting Fiber Cable Networks
+
+- Network Troubleshooting Common Network Issues
+
+- Common Network Security Issues
+
+- Common WAN Components and Issues
+
+- The OSI Networking Reference Model
+
+- The Transport Layer Plus ICMP
+
+- Basic Network Concepts (part 1)
+
+- Basic Network Concepts (part 2)
+
+- Basic Network Concepts (part 3)
+
+- Introduction to Wireless Network Standards
+
+- Introduction to Wired Network Standards
+
+- Security Policies and other Documents
+
+- Introduction to Safety Practices (part 1)
+
+- Introduction to Safety Practices (part 2)
+
+- Rack and Power Management
+
+- Cable Management
+
+- Basics of Change Management
+
+- Common Networking Protocols (part 1)
+
+- Common Networking Protocols (part 2)
+#
+# Intro to Network Devices (part 1)
+- Layer 1 devices
+	- Physical Layer
+- Layer 2 devices
+	- Data Link
+- Layer 3 devices
+	- Network
+
+---
+**Layer 1 Devices:**
+
+- Analog Modem
+	- 
+	- Were developed to take the digital signal coming from a digital node and convert it to an analog signal (Wire)
+	- Developed to also create connections between network segments via PSTN(Public Switched Telephone Network) using POTS(Plain Old Telephone System)
+	- They provide for a SINGLE connection to a network
+	- "Modulator/Demodulator"
+	- Only concerned about the WIRE
+	- Resides on Layer 1 (Physical Layer) of OSI Model
+		- "Doesn't care where the signal comes from. Just does its job!"
+- The Hub
+	- 
+	- Functions as a concentrator/repeater
+		- "Doesn't care where signal comes from or where it's going!"
+	- Takes electrical signal that arrives on a port and replicates that signal out all of the other ports
+	- Few ports/many ports
+	- "Not very common in modern networking"
+---
+**Layer 2 Devices:**
+
+- Switch
+	- 
+	- Utilizes ASIC(Application-specific Integrated Circuit) chip!
+	- The ASIC chip has specific programming that allows the switch to learn when a device is on the network and which parts it is connected to via device's Layer 2 MAC address
+	- Few/many ports
+	- Can be very simple/highly complex and programmable
+	- Will only communicate with local network devices!
+- Wireless Access Point (WAP)
+	- 
+	- Specific type of network bridge that connects ("bridges")
+		-  Wireless network segments with wired network segments
+	- Most common WAP Bridges:
+		- 802.11 Wireless Network Segments with 802.3 Ethernet Network Segments
+	- Only communicates with local network devices!
+---
+**Layer 3 Devices:**
+
+- Multilayer Switch (MLS)
+	- 
+	- Provides normal Layer 2 network switching services, but also provides Layer 3 or higher OSI model services
+	- Most common MLS is a Layer 3 switch
+		- Utilizes ASIC chip for switching and is programmed to handle routing functions
+		- Allows device to communicate and pass data to non-local network devices
+	- Highly programmable and complex network device
+	- Few/many ports
+	- "Too expensive for small offices & home office networks"
+		- Mostly used by Enterprise Local Area Networks
+- Router
+	- 
+	- MOST common network device for connecting different networks together utilizing OSI model's L3 logical network information
+	- Uses software programming for decision making as compared to the switch's ASIC chip
+	- Uses this programming to keep track of different networks and what it considers to be the best possible route to reach those networks
+	- Can communicate with BOTH local and non-local network devices!
+	- In most cases it has fewer ports than a switch
+
